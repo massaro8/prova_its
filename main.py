@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from handler import router
-
+hfhhfhf
 # Crea un'istanza di FastAPI con specifiche configurazioni per i percorsi di documentazione
 app = FastAPI(
     # Imposta il percorso personalizzato per il documento OpenAPI JSON
